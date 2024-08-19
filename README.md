@@ -8,3 +8,4 @@
 
 ### Slide da Apresentação do projeto: [apresentação da funcionalidade de remoção em uma Árvore Binária em JAVA.pdf](https://github.com/user-attachments/files/16663676/apresentacao.da.funcionalidade.de.remocao.em.uma.Arvore.Binaria.em.JAVA.pdf)
 
+![Captura de tela 2024-08-19 145659](https://github.com/user-attachments/assets/9a98483f-e2d4-40a8-9553-c28c7f1fc79a)
